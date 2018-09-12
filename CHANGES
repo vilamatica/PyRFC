@@ -1,13 +1,23 @@
 Change log
 ==========
 
+1.9.93 (2018-08-20)
+-------------------
+- Tables' processing memory consumption optimisation (#60)
+
+1.9.92 (2018-07-31)
+-------------------
+- pyrfc.__version__ attribute added
+- Cython version restriction removed
+- Documentation
+
 1.9.91 (2018-04-27)
-------------------
+-------------------
 - BCD and Floats input conversion fix
 
 
 1.9.9 (2018-04-18)
------------------
+------------------
 - Deactivate not requested parameters (see RfcSetParameterActive)
 
 
